@@ -1,7 +1,7 @@
 # Github Sort
 ![enter image description here](https://i.ibb.co/Bn0pkkt/github-screenshot.png)
 
-A React app that displays an organization's Github project ranks by a sort directive.
+A React app that displays an organization's Github projects ranked by a sort directive, and allows the user to view recent commits on a project.
 
 ## Getting Started
 This project uses the GitHub GraphQL API to query for data, which requires an OAuth token. Instructions for creating a token with the required scopes can be found [here](https://docs.github.com/en/free-pro-team@latest/graphql/guides/forming-calls-with-graphql#authenticating-with-graphql) and [here](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token).
