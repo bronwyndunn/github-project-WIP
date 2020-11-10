@@ -1,5 +1,5 @@
 # Github Sort
-![enter image description here](https://i.ibb.co/Bn0pkkt/github-screenshot.png)
+![Project screenshot](https://i.ibb.co/Bn0pkkt/github-screenshot.png)
 
 A React app that displays an organization's Github projects ranked by a sort directive, and allows the user to view recent commits on a project.
 
