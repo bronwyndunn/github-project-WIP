@@ -31102,7 +31102,7 @@ Update for 3.7.1",
       >
         <Loader
           className="loader"
-          color="#D6BCFA"
+          color="#B3CBFF"
           height={32}
           style={Object {}}
           timeout={0}
@@ -31117,7 +31117,7 @@ Update for 3.7.1",
           >
             <Puff
               className="loader"
-              color="#D6BCFA"
+              color="#B3CBFF"
               height={32}
               label="audio-loading"
               radius={1}
@@ -31130,7 +31130,7 @@ Update for 3.7.1",
               <svg
                 aria-label="audio-loading"
                 height={32}
-                stroke="#D6BCFA"
+                stroke="#B3CBFF"
                 viewBox="0 0 44 44"
                 width={32}
                 xmlns="http://www.w3.org/2000/svg"

@@ -17,7 +17,6 @@ exports[`App should render the component 1`] = `
     />
     <input
       className="search-button"
-      data-testid="search-button"
       id="search"
       onClick={[Function]}
       type="button"
