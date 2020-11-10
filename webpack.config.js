@@ -46,13 +46,15 @@ module.exports = () => {
             ]
         },
         devServer: {
-            historyApiFallback: true
+            historyApiFallback: true,
+            publicPath: '/dist'
         },
         plugins: [
             new webpack.DefinePlugin(envKeys),
             new HtmlWebPackPlugin({
                 template: './src/index.html'
             })
-        ]
+        ],
+        mode: 'development'
     }
 }
