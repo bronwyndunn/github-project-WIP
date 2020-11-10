@@ -1,9 +1,8 @@
 import React from 'react'
+import { formatDateString } from '../../utils'
 
 const RecentCommits = ({ node: { author, committedDate, message } }) => {
-    const options = { month: 'long', day: 'numeric', year: 'numeric' }
-    const date = new Date(committedDate)
-    const displayDate = new Intl.DateTimeFormat('en-US', options).format(date)
+    const displayDate = formatDateString(committedDate)
     return (
         <div className="commit-container">
             <img
