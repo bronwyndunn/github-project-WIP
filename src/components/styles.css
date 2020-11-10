@@ -51,10 +51,10 @@ input {
     border: solid 1px #ccd7da;
     border-radius: 4px;
     height: 42px;
+    width: 312px;
     font-size: 14px;
     line-height: 1.5;
     padding: 0 12px;
-    width: 30%;
 }
 
 .search-button {
@@ -194,7 +194,25 @@ input {
 }
 
 @media (max-width: 767px) {
+    .app {
+        padding: 16px;
+    }
+
+    .search-container {
+        flex-direction: column;
+    }
     .repo-data-container {
         flex-direction: column;
+    }
+
+    .sidebar-container {
+        display: flex;
+        max-width: initial;
+        margin: 16px 0 0 0;
+        align-items: center;
+    }
+
+    .search-button {
+        margin-top: 16px;
     }
 }

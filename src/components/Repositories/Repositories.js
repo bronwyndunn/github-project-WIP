@@ -83,7 +83,7 @@ const Repositories = ({
         return (
             <Loader
                 type="Puff"
-                color="#D6BCFA"
+                color="#B3CBFF"
                 height={32}
                 width={32}
                 className="loader"
