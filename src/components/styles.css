@@ -1,0 +1,200 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+    color: #1a202c;
+}
+
+input {
+    color: #1a202c;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.app {
+    font-family: 'Source Sans Pro', sans-serif;
+    display: flex;
+    flex-direction: column;
+    padding: 24px 48px;
+}
+
+.sort-select-container {
+    display: flex;
+    align-self: flex-end;
+    width: 100px;
+    padding: 8px 16px;
+    border: 1px solid #efefef;
+    border-radius: 8px;
+}
+
+.sort-select {
+    color: #1a202c;
+    border: none;
+    padding: 4px 8px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 64px;
+}
+
+.search-input {
+    background-color: #ffffff;
+    border: solid 1px #ccd7da;
+    border-radius: 4px;
+    height: 42px;
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 0 12px;
+    width: 30%;
+}
+
+.search-button {
+    border: none;
+    background: #e5edff;
+    color: #5850eb;
+    padding: 8px 16px;
+    font-size: 14px;
+    border-radius: 6px;
+    line-height: 26px;
+    margin-left: 12px;
+    max-width: 148px;
+}
+
+.loader {
+    text-align: center;
+    margin-top: 48px;
+}
+
+.repo-header {
+    display: flex;
+    justify-content: center;
+}
+
+.repo-header-description {
+    font-weight: 500;
+}
+
+.repo-header-image {
+    width: 60px;
+    margin-right: 24px;
+}
+
+.repositories-header {
+    text-align: left;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.data-row {
+    color: #718096;
+    font-size: 14px;
+    border-bottom: 1px solid #e7f0f6;
+    padding: 16px 0;
+}
+
+.row-name {
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #667eea;
+}
+
+.row-description {
+    margin: 12px 0;
+}
+
+.repo-data-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.repo-data {
+    display: flex;
+}
+
+.repo-stat {
+    display: flex;
+    align-items: center;
+    margin-right: 16px;
+}
+
+.icon {
+    display: inline-flex;
+    align-items: center;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 6px;
+}
+
+.sidebar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    max-width: 50%;
+    margin-left: 60px;
+}
+
+.sidebar {
+    padding: 16px;
+    border: 1px solid #efefef;
+    margin: 12px;
+}
+
+.commit-container {
+    display: flex;
+    padding: 8px 0;
+}
+
+.commit-button {
+    border: none;
+    width: 180px;
+    color: #fff;
+    background: #667eea;
+    padding: 8px 16px;
+    font-size: 14px;
+    border-radius: 8px;
+    line-height: 26px;
+}
+
+.commit-author-avatar {
+    height: 32px;
+    width: 32px;
+    border-radius: 16px;
+    margin-right: 8px;
+}
+
+.commit {
+    display: flex;
+    flex-direction: column;
+}
+
+.commit-message {
+    font-size: 16px;
+    margin: 2px;
+}
+
+.commit-author-name {
+    font-weight: bold;
+    margin: 0 4px 0 0;
+    color: #2f353f;
+}
+
+.commit-info {
+    display: flex;
+}
+
+@media (max-width: 767px) {
+    .repo-data-container {
+        flex-direction: column;
+    }
+}

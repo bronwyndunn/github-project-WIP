@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render the component 1`] = `
+<div
+  className="app"
+>
+  <div
+    className="search-container"
+  >
+    <input
+      className="search-input"
+      onChange={[Function]}
+      onKeyDown={[Function]}
+      placeholder="Search for an organization"
+      type="text"
+      value=""
+    />
+    <input
+      className="search-button"
+      data-testid="search-button"
+      id="search"
+      onClick={[Function]}
+      type="button"
+      value="search"
+    />
+  </div>
+</div>
+`;
