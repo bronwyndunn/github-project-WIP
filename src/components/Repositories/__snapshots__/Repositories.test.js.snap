@@ -2114,6 +2114,7 @@ Update for 3.7.1",
   </div>
   <LoadMoreButton
     endCursor="Y3Vyc29yOjEw"
+    loading={false}
   />
 </div>
 `;

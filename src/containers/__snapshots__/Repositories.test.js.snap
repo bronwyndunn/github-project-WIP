@@ -368,17 +368,6 @@ exports[`RepositoriesContainer should render Render the component 1`] = `
                                                                       "kind": "Field",
                                                                       "name": Object {
                                                                         "kind": "Name",
-                                                                        "value": "totalCount",
-                                                                      },
-                                                                      "selectionSet": undefined,
-                                                                    },
-                                                                    Object {
-                                                                      "alias": undefined,
-                                                                      "arguments": Array [],
-                                                                      "directives": Array [],
-                                                                      "kind": "Field",
-                                                                      "name": Object {
-                                                                        "kind": "Name",
                                                                         "value": "edges",
                                                                       },
                                                                       "selectionSet": Object {
@@ -471,17 +460,6 @@ exports[`RepositoriesContainer should render Render the component 1`] = `
                                                                                             },
                                                                                           ],
                                                                                         },
-                                                                                      },
-                                                                                      Object {
-                                                                                        "alias": undefined,
-                                                                                        "arguments": Array [],
-                                                                                        "directives": Array [],
-                                                                                        "kind": "Field",
-                                                                                        "name": Object {
-                                                                                          "kind": "Name",
-                                                                                          "value": "changedFiles",
-                                                                                        },
-                                                                                        "selectionSet": undefined,
                                                                                       },
                                                                                     ],
                                                                                   },
@@ -608,7 +586,7 @@ exports[`RepositoriesContainer should render Render the component 1`] = `
             ],
             "kind": "Document",
             "loc": Object {
-              "end": 2114,
+              "end": 1998,
               "start": 0,
             },
           },
@@ -3193,17 +3171,6 @@ Update for 3.7.1",
                                                                         "kind": "Field",
                                                                         "name": Object {
                                                                           "kind": "Name",
-                                                                          "value": "totalCount",
-                                                                        },
-                                                                        "selectionSet": undefined,
-                                                                      },
-                                                                      Object {
-                                                                        "alias": undefined,
-                                                                        "arguments": Array [],
-                                                                        "directives": Array [],
-                                                                        "kind": "Field",
-                                                                        "name": Object {
-                                                                          "kind": "Name",
                                                                           "value": "edges",
                                                                         },
                                                                         "selectionSet": Object {
@@ -3296,17 +3263,6 @@ Update for 3.7.1",
                                                                                               },
                                                                                             ],
                                                                                           },
-                                                                                        },
-                                                                                        Object {
-                                                                                          "alias": undefined,
-                                                                                          "arguments": Array [],
-                                                                                          "directives": Array [],
-                                                                                          "kind": "Field",
-                                                                                          "name": Object {
-                                                                                            "kind": "Name",
-                                                                                            "value": "changedFiles",
-                                                                                          },
-                                                                                          "selectionSet": undefined,
                                                                                         },
                                                                                       ],
                                                                                     },
@@ -3433,7 +3389,7 @@ Update for 3.7.1",
               ],
               "kind": "Document",
               "loc": Object {
-                "end": 2114,
+                "end": 1998,
                 "start": 0,
               },
             } => Object {
@@ -3818,17 +3774,6 @@ Update for 3.7.1",
                                                                         "kind": "Field",
                                                                         "name": Object {
                                                                           "kind": "Name",
-                                                                          "value": "totalCount",
-                                                                        },
-                                                                        "selectionSet": undefined,
-                                                                      },
-                                                                      Object {
-                                                                        "alias": undefined,
-                                                                        "arguments": Array [],
-                                                                        "directives": Array [],
-                                                                        "kind": "Field",
-                                                                        "name": Object {
-                                                                          "kind": "Name",
                                                                           "value": "edges",
                                                                         },
                                                                         "selectionSet": Object {
@@ -3928,17 +3873,6 @@ Update for 3.7.1",
                                                                                               },
                                                                                             ],
                                                                                           },
-                                                                                        },
-                                                                                        Object {
-                                                                                          "alias": undefined,
-                                                                                          "arguments": Array [],
-                                                                                          "directives": Array [],
-                                                                                          "kind": "Field",
-                                                                                          "name": Object {
-                                                                                            "kind": "Name",
-                                                                                            "value": "changedFiles",
-                                                                                          },
-                                                                                          "selectionSet": undefined,
                                                                                         },
                                                                                         Object {
                                                                                           "kind": "Field",
@@ -4142,7 +4076,7 @@ Update for 3.7.1",
               ],
               "kind": "Document",
               "loc": Object {
-                "end": 2114,
+                "end": 1998,
                 "start": 0,
               },
             },
@@ -4528,17 +4462,6 @@ Update for 3.7.1",
                                                                         "kind": "Field",
                                                                         "name": Object {
                                                                           "kind": "Name",
-                                                                          "value": "totalCount",
-                                                                        },
-                                                                        "selectionSet": undefined,
-                                                                      },
-                                                                      Object {
-                                                                        "alias": undefined,
-                                                                        "arguments": Array [],
-                                                                        "directives": Array [],
-                                                                        "kind": "Field",
-                                                                        "name": Object {
-                                                                          "kind": "Name",
                                                                           "value": "edges",
                                                                         },
                                                                         "selectionSet": Object {
@@ -4638,17 +4561,6 @@ Update for 3.7.1",
                                                                                               },
                                                                                             ],
                                                                                           },
-                                                                                        },
-                                                                                        Object {
-                                                                                          "alias": undefined,
-                                                                                          "arguments": Array [],
-                                                                                          "directives": Array [],
-                                                                                          "kind": "Field",
-                                                                                          "name": Object {
-                                                                                            "kind": "Name",
-                                                                                            "value": "changedFiles",
-                                                                                          },
-                                                                                          "selectionSet": undefined,
                                                                                         },
                                                                                         Object {
                                                                                           "kind": "Field",
@@ -4852,7 +4764,7 @@ Update for 3.7.1",
               ],
               "kind": "Document",
               "loc": Object {
-                "end": 2114,
+                "end": 1998,
                 "start": 0,
               },
             } => Object {
@@ -5237,17 +5149,6 @@ Update for 3.7.1",
                                                                         "kind": "Field",
                                                                         "name": Object {
                                                                           "kind": "Name",
-                                                                          "value": "totalCount",
-                                                                        },
-                                                                        "selectionSet": undefined,
-                                                                      },
-                                                                      Object {
-                                                                        "alias": undefined,
-                                                                        "arguments": Array [],
-                                                                        "directives": Array [],
-                                                                        "kind": "Field",
-                                                                        "name": Object {
-                                                                          "kind": "Name",
                                                                           "value": "edges",
                                                                         },
                                                                         "selectionSet": Object {
@@ -5347,17 +5248,6 @@ Update for 3.7.1",
                                                                                               },
                                                                                             ],
                                                                                           },
-                                                                                        },
-                                                                                        Object {
-                                                                                          "alias": undefined,
-                                                                                          "arguments": Array [],
-                                                                                          "directives": Array [],
-                                                                                          "kind": "Field",
-                                                                                          "name": Object {
-                                                                                            "kind": "Name",
-                                                                                            "value": "changedFiles",
-                                                                                          },
-                                                                                          "selectionSet": undefined,
                                                                                         },
                                                                                         Object {
                                                                                           "kind": "Field",
@@ -5561,7 +5451,7 @@ Update for 3.7.1",
               ],
               "kind": "Document",
               "loc": Object {
-                "end": 2114,
+                "end": 1998,
                 "start": 0,
               },
             },
@@ -5932,17 +5822,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -6035,17 +5914,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                         ],
                                                                                       },
@@ -6172,7 +6040,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               },
@@ -6190,7 +6058,7 @@ Update for 3.7.1",
         "link": MockLink {
           "addTypename": true,
           "mockedResponsesByKey": Object {
-            "{\\"query\\":\\"query orgRepos($queryString: String!, $first: Int!, $after: String) {\\\\n  search(query: $queryString, type: REPOSITORY, first: $first, after: $after) {\\\\n    repositoryCount\\\\n    pageInfo {\\\\n      endCursor\\\\n      startCursor\\\\n      hasNextPage\\\\n      __typename\\\\n    }\\\\n    edges {\\\\n      cursor\\\\n      node {\\\\n        ... on Repository {\\\\n          name\\\\n          forkCount\\\\n          description\\\\n          stargazerCount\\\\n          issues {\\\\n            totalCount\\\\n            __typename\\\\n          }\\\\n          primaryLanguage {\\\\n            color\\\\n            name\\\\n            __typename\\\\n          }\\\\n          url\\\\n          masterBranch: defaultBranchRef {\\\\n            target {\\\\n              ... on Commit {\\\\n                history(first: 10) {\\\\n                  totalCount\\\\n                  edges {\\\\n                    node {\\\\n                      ... on Commit {\\\\n                        message\\\\n                        committedDate\\\\n                        author {\\\\n                          name\\\\n                          email\\\\n                          avatarUrl\\\\n                          __typename\\\\n                        }\\\\n                        changedFiles\\\\n                        __typename\\\\n                      }\\\\n                      __typename\\\\n                    }\\\\n                    __typename\\\\n                  }\\\\n                  __typename\\\\n                }\\\\n                __typename\\\\n              }\\\\n              __typename\\\\n            }\\\\n            __typename\\\\n          }\\\\n          __typename\\\\n        }\\\\n        __typename\\\\n      }\\\\n      __typename\\\\n    }\\\\n    __typename\\\\n  }\\\\n}\\\\n\\"}": Array [
+            "{\\"query\\":\\"query orgRepos($queryString: String!, $first: Int!, $after: String) {\\\\n  search(query: $queryString, type: REPOSITORY, first: $first, after: $after) {\\\\n    repositoryCount\\\\n    pageInfo {\\\\n      endCursor\\\\n      startCursor\\\\n      hasNextPage\\\\n      __typename\\\\n    }\\\\n    edges {\\\\n      cursor\\\\n      node {\\\\n        ... on Repository {\\\\n          name\\\\n          forkCount\\\\n          description\\\\n          stargazerCount\\\\n          issues {\\\\n            totalCount\\\\n            __typename\\\\n          }\\\\n          primaryLanguage {\\\\n            color\\\\n            name\\\\n            __typename\\\\n          }\\\\n          url\\\\n          masterBranch: defaultBranchRef {\\\\n            target {\\\\n              ... on Commit {\\\\n                history(first: 10) {\\\\n                  edges {\\\\n                    node {\\\\n                      ... on Commit {\\\\n                        message\\\\n                        committedDate\\\\n                        author {\\\\n                          name\\\\n                          email\\\\n                          avatarUrl\\\\n                          __typename\\\\n                        }\\\\n                        __typename\\\\n                      }\\\\n                      __typename\\\\n                    }\\\\n                    __typename\\\\n                  }\\\\n                  __typename\\\\n                }\\\\n                __typename\\\\n              }\\\\n              __typename\\\\n            }\\\\n            __typename\\\\n          }\\\\n          __typename\\\\n        }\\\\n        __typename\\\\n      }\\\\n      __typename\\\\n    }\\\\n    __typename\\\\n  }\\\\n}\\\\n\\"}": Array [
               Object {
                 "request": Object {
                   "query": Object {
@@ -6554,17 +6422,6 @@ Update for 3.7.1",
                                                                               "kind": "Field",
                                                                               "name": Object {
                                                                                 "kind": "Name",
-                                                                                "value": "totalCount",
-                                                                              },
-                                                                              "selectionSet": undefined,
-                                                                            },
-                                                                            Object {
-                                                                              "alias": undefined,
-                                                                              "arguments": Array [],
-                                                                              "directives": Array [],
-                                                                              "kind": "Field",
-                                                                              "name": Object {
-                                                                                "kind": "Name",
                                                                                 "value": "edges",
                                                                               },
                                                                               "selectionSet": Object {
@@ -6657,17 +6514,6 @@ Update for 3.7.1",
                                                                                                     },
                                                                                                   ],
                                                                                                 },
-                                                                                              },
-                                                                                              Object {
-                                                                                                "alias": undefined,
-                                                                                                "arguments": Array [],
-                                                                                                "directives": Array [],
-                                                                                                "kind": "Field",
-                                                                                                "name": Object {
-                                                                                                  "kind": "Name",
-                                                                                                  "value": "changedFiles",
-                                                                                                },
-                                                                                                "selectionSet": undefined,
                                                                                               },
                                                                                             ],
                                                                                           },
@@ -6794,7 +6640,7 @@ Update for 3.7.1",
                     ],
                     "kind": "Document",
                     "loc": Object {
-                      "end": 2114,
+                      "end": 1998,
                       "start": 0,
                     },
                   },
@@ -9235,17 +9081,6 @@ Update for 3.7.1",
                                                                         "kind": "Field",
                                                                         "name": Object {
                                                                           "kind": "Name",
-                                                                          "value": "totalCount",
-                                                                        },
-                                                                        "selectionSet": undefined,
-                                                                      },
-                                                                      Object {
-                                                                        "alias": undefined,
-                                                                        "arguments": Array [],
-                                                                        "directives": Array [],
-                                                                        "kind": "Field",
-                                                                        "name": Object {
-                                                                          "kind": "Name",
                                                                           "value": "edges",
                                                                         },
                                                                         "selectionSet": Object {
@@ -9345,17 +9180,6 @@ Update for 3.7.1",
                                                                                               },
                                                                                             ],
                                                                                           },
-                                                                                        },
-                                                                                        Object {
-                                                                                          "alias": undefined,
-                                                                                          "arguments": Array [],
-                                                                                          "directives": Array [],
-                                                                                          "kind": "Field",
-                                                                                          "name": Object {
-                                                                                            "kind": "Name",
-                                                                                            "value": "changedFiles",
-                                                                                          },
-                                                                                          "selectionSet": undefined,
                                                                                         },
                                                                                         Object {
                                                                                           "kind": "Field",
@@ -9559,7 +9383,7 @@ Update for 3.7.1",
               ],
               "kind": "Document",
               "loc": Object {
-                "end": 2114,
+                "end": 1998,
                 "start": 0,
               },
             },
@@ -10096,17 +9920,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -10199,17 +10012,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                         ],
                                                                                       },
@@ -10336,7 +10138,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               } => Object {
@@ -10721,17 +10523,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -10831,17 +10622,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                           Object {
                                                                                             "kind": "Field",
@@ -11045,7 +10825,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               },
@@ -11431,17 +11211,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -11541,17 +11310,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                           Object {
                                                                                             "kind": "Field",
@@ -11755,7 +11513,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               } => Object {
@@ -12140,17 +11898,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -12250,17 +11997,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                           Object {
                                                                                             "kind": "Field",
@@ -12464,7 +12200,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               },
@@ -12835,17 +12571,6 @@ Update for 3.7.1",
                                                                             "kind": "Field",
                                                                             "name": Object {
                                                                               "kind": "Name",
-                                                                              "value": "totalCount",
-                                                                            },
-                                                                            "selectionSet": undefined,
-                                                                          },
-                                                                          Object {
-                                                                            "alias": undefined,
-                                                                            "arguments": Array [],
-                                                                            "directives": Array [],
-                                                                            "kind": "Field",
-                                                                            "name": Object {
-                                                                              "kind": "Name",
                                                                               "value": "edges",
                                                                             },
                                                                             "selectionSet": Object {
@@ -12938,17 +12663,6 @@ Update for 3.7.1",
                                                                                                   },
                                                                                                 ],
                                                                                               },
-                                                                                            },
-                                                                                            Object {
-                                                                                              "alias": undefined,
-                                                                                              "arguments": Array [],
-                                                                                              "directives": Array [],
-                                                                                              "kind": "Field",
-                                                                                              "name": Object {
-                                                                                                "kind": "Name",
-                                                                                                "value": "changedFiles",
-                                                                                              },
-                                                                                              "selectionSet": undefined,
                                                                                             },
                                                                                           ],
                                                                                         },
@@ -13075,7 +12789,7 @@ Update for 3.7.1",
                   ],
                   "kind": "Document",
                   "loc": Object {
-                    "end": 2114,
+                    "end": 1998,
                     "start": 0,
                   },
                 },
@@ -13619,17 +13333,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -13722,17 +13425,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                         ],
                                                                                       },
@@ -13859,7 +13551,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               } => Object {
@@ -14244,17 +13936,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -14354,17 +14035,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                           Object {
                                                                                             "kind": "Field",
@@ -14568,7 +14238,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               },
@@ -14954,17 +14624,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -15064,17 +14723,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                           Object {
                                                                                             "kind": "Field",
@@ -15278,7 +14926,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               } => Object {
@@ -15663,17 +15311,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -15773,17 +15410,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                           Object {
                                                                                             "kind": "Field",
@@ -15987,7 +15613,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               },
@@ -16358,17 +15984,6 @@ Update for 3.7.1",
                                                                             "kind": "Field",
                                                                             "name": Object {
                                                                               "kind": "Name",
-                                                                              "value": "totalCount",
-                                                                            },
-                                                                            "selectionSet": undefined,
-                                                                          },
-                                                                          Object {
-                                                                            "alias": undefined,
-                                                                            "arguments": Array [],
-                                                                            "directives": Array [],
-                                                                            "kind": "Field",
-                                                                            "name": Object {
-                                                                              "kind": "Name",
                                                                               "value": "edges",
                                                                             },
                                                                             "selectionSet": Object {
@@ -16461,17 +16076,6 @@ Update for 3.7.1",
                                                                                                   },
                                                                                                 ],
                                                                                               },
-                                                                                            },
-                                                                                            Object {
-                                                                                              "alias": undefined,
-                                                                                              "arguments": Array [],
-                                                                                              "directives": Array [],
-                                                                                              "kind": "Field",
-                                                                                              "name": Object {
-                                                                                                "kind": "Name",
-                                                                                                "value": "changedFiles",
-                                                                                              },
-                                                                                              "selectionSet": undefined,
                                                                                             },
                                                                                           ],
                                                                                         },
@@ -16598,7 +16202,7 @@ Update for 3.7.1",
                   ],
                   "kind": "Document",
                   "loc": Object {
-                    "end": 2114,
+                    "end": 1998,
                     "start": 0,
                   },
                 },
@@ -17000,17 +16604,6 @@ Update for 3.7.1",
                                                                         "kind": "Field",
                                                                         "name": Object {
                                                                           "kind": "Name",
-                                                                          "value": "totalCount",
-                                                                        },
-                                                                        "selectionSet": undefined,
-                                                                      },
-                                                                      Object {
-                                                                        "alias": undefined,
-                                                                        "arguments": Array [],
-                                                                        "directives": Array [],
-                                                                        "kind": "Field",
-                                                                        "name": Object {
-                                                                          "kind": "Name",
                                                                           "value": "edges",
                                                                         },
                                                                         "selectionSet": Object {
@@ -17110,17 +16703,6 @@ Update for 3.7.1",
                                                                                               },
                                                                                             ],
                                                                                           },
-                                                                                        },
-                                                                                        Object {
-                                                                                          "alias": undefined,
-                                                                                          "arguments": Array [],
-                                                                                          "directives": Array [],
-                                                                                          "kind": "Field",
-                                                                                          "name": Object {
-                                                                                            "kind": "Name",
-                                                                                            "value": "changedFiles",
-                                                                                          },
-                                                                                          "selectionSet": undefined,
                                                                                         },
                                                                                         Object {
                                                                                           "kind": "Field",
@@ -17324,7 +16906,7 @@ Update for 3.7.1",
               ],
               "kind": "Document",
               "loc": Object {
-                "end": 2114,
+                "end": 1998,
                 "start": 0,
               },
             } => Map {},
@@ -17332,7 +16914,7 @@ Update for 3.7.1",
           "link": MockLink {
             "addTypename": true,
             "mockedResponsesByKey": Object {
-              "{\\"query\\":\\"query orgRepos($queryString: String!, $first: Int!, $after: String) {\\\\n  search(query: $queryString, type: REPOSITORY, first: $first, after: $after) {\\\\n    repositoryCount\\\\n    pageInfo {\\\\n      endCursor\\\\n      startCursor\\\\n      hasNextPage\\\\n      __typename\\\\n    }\\\\n    edges {\\\\n      cursor\\\\n      node {\\\\n        ... on Repository {\\\\n          name\\\\n          forkCount\\\\n          description\\\\n          stargazerCount\\\\n          issues {\\\\n            totalCount\\\\n            __typename\\\\n          }\\\\n          primaryLanguage {\\\\n            color\\\\n            name\\\\n            __typename\\\\n          }\\\\n          url\\\\n          masterBranch: defaultBranchRef {\\\\n            target {\\\\n              ... on Commit {\\\\n                history(first: 10) {\\\\n                  totalCount\\\\n                  edges {\\\\n                    node {\\\\n                      ... on Commit {\\\\n                        message\\\\n                        committedDate\\\\n                        author {\\\\n                          name\\\\n                          email\\\\n                          avatarUrl\\\\n                          __typename\\\\n                        }\\\\n                        changedFiles\\\\n                        __typename\\\\n                      }\\\\n                      __typename\\\\n                    }\\\\n                    __typename\\\\n                  }\\\\n                  __typename\\\\n                }\\\\n                __typename\\\\n              }\\\\n              __typename\\\\n            }\\\\n            __typename\\\\n          }\\\\n          __typename\\\\n        }\\\\n        __typename\\\\n      }\\\\n      __typename\\\\n    }\\\\n    __typename\\\\n  }\\\\n}\\\\n\\"}": Array [
+              "{\\"query\\":\\"query orgRepos($queryString: String!, $first: Int!, $after: String) {\\\\n  search(query: $queryString, type: REPOSITORY, first: $first, after: $after) {\\\\n    repositoryCount\\\\n    pageInfo {\\\\n      endCursor\\\\n      startCursor\\\\n      hasNextPage\\\\n      __typename\\\\n    }\\\\n    edges {\\\\n      cursor\\\\n      node {\\\\n        ... on Repository {\\\\n          name\\\\n          forkCount\\\\n          description\\\\n          stargazerCount\\\\n          issues {\\\\n            totalCount\\\\n            __typename\\\\n          }\\\\n          primaryLanguage {\\\\n            color\\\\n            name\\\\n            __typename\\\\n          }\\\\n          url\\\\n          masterBranch: defaultBranchRef {\\\\n            target {\\\\n              ... on Commit {\\\\n                history(first: 10) {\\\\n                  edges {\\\\n                    node {\\\\n                      ... on Commit {\\\\n                        message\\\\n                        committedDate\\\\n                        author {\\\\n                          name\\\\n                          email\\\\n                          avatarUrl\\\\n                          __typename\\\\n                        }\\\\n                        __typename\\\\n                      }\\\\n                      __typename\\\\n                    }\\\\n                    __typename\\\\n                  }\\\\n                  __typename\\\\n                }\\\\n                __typename\\\\n              }\\\\n              __typename\\\\n            }\\\\n            __typename\\\\n          }\\\\n          __typename\\\\n        }\\\\n        __typename\\\\n      }\\\\n      __typename\\\\n    }\\\\n    __typename\\\\n  }\\\\n}\\\\n\\"}": Array [
                 Object {
                   "request": Object {
                     "query": Object {
@@ -17696,17 +17278,6 @@ Update for 3.7.1",
                                                                                 "kind": "Field",
                                                                                 "name": Object {
                                                                                   "kind": "Name",
-                                                                                  "value": "totalCount",
-                                                                                },
-                                                                                "selectionSet": undefined,
-                                                                              },
-                                                                              Object {
-                                                                                "alias": undefined,
-                                                                                "arguments": Array [],
-                                                                                "directives": Array [],
-                                                                                "kind": "Field",
-                                                                                "name": Object {
-                                                                                  "kind": "Name",
                                                                                   "value": "edges",
                                                                                 },
                                                                                 "selectionSet": Object {
@@ -17799,17 +17370,6 @@ Update for 3.7.1",
                                                                                                       },
                                                                                                     ],
                                                                                                   },
-                                                                                                },
-                                                                                                Object {
-                                                                                                  "alias": undefined,
-                                                                                                  "arguments": Array [],
-                                                                                                  "directives": Array [],
-                                                                                                  "kind": "Field",
-                                                                                                  "name": Object {
-                                                                                                    "kind": "Name",
-                                                                                                    "value": "changedFiles",
-                                                                                                  },
-                                                                                                  "selectionSet": undefined,
                                                                                                 },
                                                                                               ],
                                                                                             },
@@ -17936,7 +17496,7 @@ Update for 3.7.1",
                       ],
                       "kind": "Document",
                       "loc": Object {
-                        "end": 2114,
+                        "end": 1998,
                         "start": 0,
                       },
                     },
@@ -20377,17 +19937,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -20487,17 +20036,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                           Object {
                                                                                             "kind": "Field",
@@ -20701,7 +20239,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               },
@@ -21238,17 +20776,6 @@ Update for 3.7.1",
                                                                             "kind": "Field",
                                                                             "name": Object {
                                                                               "kind": "Name",
-                                                                              "value": "totalCount",
-                                                                            },
-                                                                            "selectionSet": undefined,
-                                                                          },
-                                                                          Object {
-                                                                            "alias": undefined,
-                                                                            "arguments": Array [],
-                                                                            "directives": Array [],
-                                                                            "kind": "Field",
-                                                                            "name": Object {
-                                                                              "kind": "Name",
                                                                               "value": "edges",
                                                                             },
                                                                             "selectionSet": Object {
@@ -21341,17 +20868,6 @@ Update for 3.7.1",
                                                                                                   },
                                                                                                 ],
                                                                                               },
-                                                                                            },
-                                                                                            Object {
-                                                                                              "alias": undefined,
-                                                                                              "arguments": Array [],
-                                                                                              "directives": Array [],
-                                                                                              "kind": "Field",
-                                                                                              "name": Object {
-                                                                                                "kind": "Name",
-                                                                                                "value": "changedFiles",
-                                                                                              },
-                                                                                              "selectionSet": undefined,
                                                                                             },
                                                                                           ],
                                                                                         },
@@ -21478,7 +20994,7 @@ Update for 3.7.1",
                   ],
                   "kind": "Document",
                   "loc": Object {
-                    "end": 2114,
+                    "end": 1998,
                     "start": 0,
                   },
                 } => Object {
@@ -21863,17 +21379,6 @@ Update for 3.7.1",
                                                                             "kind": "Field",
                                                                             "name": Object {
                                                                               "kind": "Name",
-                                                                              "value": "totalCount",
-                                                                            },
-                                                                            "selectionSet": undefined,
-                                                                          },
-                                                                          Object {
-                                                                            "alias": undefined,
-                                                                            "arguments": Array [],
-                                                                            "directives": Array [],
-                                                                            "kind": "Field",
-                                                                            "name": Object {
-                                                                              "kind": "Name",
                                                                               "value": "edges",
                                                                             },
                                                                             "selectionSet": Object {
@@ -21973,17 +21478,6 @@ Update for 3.7.1",
                                                                                                   },
                                                                                                 ],
                                                                                               },
-                                                                                            },
-                                                                                            Object {
-                                                                                              "alias": undefined,
-                                                                                              "arguments": Array [],
-                                                                                              "directives": Array [],
-                                                                                              "kind": "Field",
-                                                                                              "name": Object {
-                                                                                                "kind": "Name",
-                                                                                                "value": "changedFiles",
-                                                                                              },
-                                                                                              "selectionSet": undefined,
                                                                                             },
                                                                                             Object {
                                                                                               "kind": "Field",
@@ -22187,7 +21681,7 @@ Update for 3.7.1",
                   ],
                   "kind": "Document",
                   "loc": Object {
-                    "end": 2114,
+                    "end": 1998,
                     "start": 0,
                   },
                 },
@@ -22573,17 +22067,6 @@ Update for 3.7.1",
                                                                             "kind": "Field",
                                                                             "name": Object {
                                                                               "kind": "Name",
-                                                                              "value": "totalCount",
-                                                                            },
-                                                                            "selectionSet": undefined,
-                                                                          },
-                                                                          Object {
-                                                                            "alias": undefined,
-                                                                            "arguments": Array [],
-                                                                            "directives": Array [],
-                                                                            "kind": "Field",
-                                                                            "name": Object {
-                                                                              "kind": "Name",
                                                                               "value": "edges",
                                                                             },
                                                                             "selectionSet": Object {
@@ -22683,17 +22166,6 @@ Update for 3.7.1",
                                                                                                   },
                                                                                                 ],
                                                                                               },
-                                                                                            },
-                                                                                            Object {
-                                                                                              "alias": undefined,
-                                                                                              "arguments": Array [],
-                                                                                              "directives": Array [],
-                                                                                              "kind": "Field",
-                                                                                              "name": Object {
-                                                                                                "kind": "Name",
-                                                                                                "value": "changedFiles",
-                                                                                              },
-                                                                                              "selectionSet": undefined,
                                                                                             },
                                                                                             Object {
                                                                                               "kind": "Field",
@@ -22897,7 +22369,7 @@ Update for 3.7.1",
                   ],
                   "kind": "Document",
                   "loc": Object {
-                    "end": 2114,
+                    "end": 1998,
                     "start": 0,
                   },
                 } => Object {
@@ -23282,17 +22754,6 @@ Update for 3.7.1",
                                                                             "kind": "Field",
                                                                             "name": Object {
                                                                               "kind": "Name",
-                                                                              "value": "totalCount",
-                                                                            },
-                                                                            "selectionSet": undefined,
-                                                                          },
-                                                                          Object {
-                                                                            "alias": undefined,
-                                                                            "arguments": Array [],
-                                                                            "directives": Array [],
-                                                                            "kind": "Field",
-                                                                            "name": Object {
-                                                                              "kind": "Name",
                                                                               "value": "edges",
                                                                             },
                                                                             "selectionSet": Object {
@@ -23392,17 +22853,6 @@ Update for 3.7.1",
                                                                                                   },
                                                                                                 ],
                                                                                               },
-                                                                                            },
-                                                                                            Object {
-                                                                                              "alias": undefined,
-                                                                                              "arguments": Array [],
-                                                                                              "directives": Array [],
-                                                                                              "kind": "Field",
-                                                                                              "name": Object {
-                                                                                                "kind": "Name",
-                                                                                                "value": "changedFiles",
-                                                                                              },
-                                                                                              "selectionSet": undefined,
                                                                                             },
                                                                                             Object {
                                                                                               "kind": "Field",
@@ -23606,7 +23056,7 @@ Update for 3.7.1",
                   ],
                   "kind": "Document",
                   "loc": Object {
-                    "end": 2114,
+                    "end": 1998,
                     "start": 0,
                   },
                 },
@@ -23977,17 +23427,6 @@ Update for 3.7.1",
                                                                               "kind": "Field",
                                                                               "name": Object {
                                                                                 "kind": "Name",
-                                                                                "value": "totalCount",
-                                                                              },
-                                                                              "selectionSet": undefined,
-                                                                            },
-                                                                            Object {
-                                                                              "alias": undefined,
-                                                                              "arguments": Array [],
-                                                                              "directives": Array [],
-                                                                              "kind": "Field",
-                                                                              "name": Object {
-                                                                                "kind": "Name",
                                                                                 "value": "edges",
                                                                               },
                                                                               "selectionSet": Object {
@@ -24080,17 +23519,6 @@ Update for 3.7.1",
                                                                                                     },
                                                                                                   ],
                                                                                                 },
-                                                                                              },
-                                                                                              Object {
-                                                                                                "alias": undefined,
-                                                                                                "arguments": Array [],
-                                                                                                "directives": Array [],
-                                                                                                "kind": "Field",
-                                                                                                "name": Object {
-                                                                                                  "kind": "Name",
-                                                                                                  "value": "changedFiles",
-                                                                                                },
-                                                                                                "selectionSet": undefined,
                                                                                               },
                                                                                             ],
                                                                                           },
@@ -24217,7 +23645,7 @@ Update for 3.7.1",
                     ],
                     "kind": "Document",
                     "loc": Object {
-                      "end": 2114,
+                      "end": 1998,
                       "start": 0,
                     },
                   },
@@ -24763,17 +24191,6 @@ Update for 3.7.1",
                                                                               "kind": "Field",
                                                                               "name": Object {
                                                                                 "kind": "Name",
-                                                                                "value": "totalCount",
-                                                                              },
-                                                                              "selectionSet": undefined,
-                                                                            },
-                                                                            Object {
-                                                                              "alias": undefined,
-                                                                              "arguments": Array [],
-                                                                              "directives": Array [],
-                                                                              "kind": "Field",
-                                                                              "name": Object {
-                                                                                "kind": "Name",
                                                                                 "value": "edges",
                                                                               },
                                                                               "selectionSet": Object {
@@ -24866,17 +24283,6 @@ Update for 3.7.1",
                                                                                                     },
                                                                                                   ],
                                                                                                 },
-                                                                                              },
-                                                                                              Object {
-                                                                                                "alias": undefined,
-                                                                                                "arguments": Array [],
-                                                                                                "directives": Array [],
-                                                                                                "kind": "Field",
-                                                                                                "name": Object {
-                                                                                                  "kind": "Name",
-                                                                                                  "value": "changedFiles",
-                                                                                                },
-                                                                                                "selectionSet": undefined,
                                                                                               },
                                                                                             ],
                                                                                           },
@@ -25003,7 +24409,7 @@ Update for 3.7.1",
                     ],
                     "kind": "Document",
                     "loc": Object {
-                      "end": 2114,
+                      "end": 1998,
                       "start": 0,
                     },
                   } => Object {
@@ -25388,17 +24794,6 @@ Update for 3.7.1",
                                                                               "kind": "Field",
                                                                               "name": Object {
                                                                                 "kind": "Name",
-                                                                                "value": "totalCount",
-                                                                              },
-                                                                              "selectionSet": undefined,
-                                                                            },
-                                                                            Object {
-                                                                              "alias": undefined,
-                                                                              "arguments": Array [],
-                                                                              "directives": Array [],
-                                                                              "kind": "Field",
-                                                                              "name": Object {
-                                                                                "kind": "Name",
                                                                                 "value": "edges",
                                                                               },
                                                                               "selectionSet": Object {
@@ -25498,17 +24893,6 @@ Update for 3.7.1",
                                                                                                     },
                                                                                                   ],
                                                                                                 },
-                                                                                              },
-                                                                                              Object {
-                                                                                                "alias": undefined,
-                                                                                                "arguments": Array [],
-                                                                                                "directives": Array [],
-                                                                                                "kind": "Field",
-                                                                                                "name": Object {
-                                                                                                  "kind": "Name",
-                                                                                                  "value": "changedFiles",
-                                                                                                },
-                                                                                                "selectionSet": undefined,
                                                                                               },
                                                                                               Object {
                                                                                                 "kind": "Field",
@@ -25712,7 +25096,7 @@ Update for 3.7.1",
                     ],
                     "kind": "Document",
                     "loc": Object {
-                      "end": 2114,
+                      "end": 1998,
                       "start": 0,
                     },
                   },
@@ -26098,17 +25482,6 @@ Update for 3.7.1",
                                                                               "kind": "Field",
                                                                               "name": Object {
                                                                                 "kind": "Name",
-                                                                                "value": "totalCount",
-                                                                              },
-                                                                              "selectionSet": undefined,
-                                                                            },
-                                                                            Object {
-                                                                              "alias": undefined,
-                                                                              "arguments": Array [],
-                                                                              "directives": Array [],
-                                                                              "kind": "Field",
-                                                                              "name": Object {
-                                                                                "kind": "Name",
                                                                                 "value": "edges",
                                                                               },
                                                                               "selectionSet": Object {
@@ -26208,17 +25581,6 @@ Update for 3.7.1",
                                                                                                     },
                                                                                                   ],
                                                                                                 },
-                                                                                              },
-                                                                                              Object {
-                                                                                                "alias": undefined,
-                                                                                                "arguments": Array [],
-                                                                                                "directives": Array [],
-                                                                                                "kind": "Field",
-                                                                                                "name": Object {
-                                                                                                  "kind": "Name",
-                                                                                                  "value": "changedFiles",
-                                                                                                },
-                                                                                                "selectionSet": undefined,
                                                                                               },
                                                                                               Object {
                                                                                                 "kind": "Field",
@@ -26422,7 +25784,7 @@ Update for 3.7.1",
                     ],
                     "kind": "Document",
                     "loc": Object {
-                      "end": 2114,
+                      "end": 1998,
                       "start": 0,
                     },
                   } => Object {
@@ -26807,17 +26169,6 @@ Update for 3.7.1",
                                                                               "kind": "Field",
                                                                               "name": Object {
                                                                                 "kind": "Name",
-                                                                                "value": "totalCount",
-                                                                              },
-                                                                              "selectionSet": undefined,
-                                                                            },
-                                                                            Object {
-                                                                              "alias": undefined,
-                                                                              "arguments": Array [],
-                                                                              "directives": Array [],
-                                                                              "kind": "Field",
-                                                                              "name": Object {
-                                                                                "kind": "Name",
                                                                                 "value": "edges",
                                                                               },
                                                                               "selectionSet": Object {
@@ -26917,17 +26268,6 @@ Update for 3.7.1",
                                                                                                     },
                                                                                                   ],
                                                                                                 },
-                                                                                              },
-                                                                                              Object {
-                                                                                                "alias": undefined,
-                                                                                                "arguments": Array [],
-                                                                                                "directives": Array [],
-                                                                                                "kind": "Field",
-                                                                                                "name": Object {
-                                                                                                  "kind": "Name",
-                                                                                                  "value": "changedFiles",
-                                                                                                },
-                                                                                                "selectionSet": undefined,
                                                                                               },
                                                                                               Object {
                                                                                                 "kind": "Field",
@@ -27131,7 +26471,7 @@ Update for 3.7.1",
                     ],
                     "kind": "Document",
                     "loc": Object {
-                      "end": 2114,
+                      "end": 1998,
                       "start": 0,
                     },
                   },
@@ -27502,17 +26842,6 @@ Update for 3.7.1",
                                                                                 "kind": "Field",
                                                                                 "name": Object {
                                                                                   "kind": "Name",
-                                                                                  "value": "totalCount",
-                                                                                },
-                                                                                "selectionSet": undefined,
-                                                                              },
-                                                                              Object {
-                                                                                "alias": undefined,
-                                                                                "arguments": Array [],
-                                                                                "directives": Array [],
-                                                                                "kind": "Field",
-                                                                                "name": Object {
-                                                                                  "kind": "Name",
                                                                                   "value": "edges",
                                                                                 },
                                                                                 "selectionSet": Object {
@@ -27605,17 +26934,6 @@ Update for 3.7.1",
                                                                                                       },
                                                                                                     ],
                                                                                                   },
-                                                                                                },
-                                                                                                Object {
-                                                                                                  "alias": undefined,
-                                                                                                  "arguments": Array [],
-                                                                                                  "directives": Array [],
-                                                                                                  "kind": "Field",
-                                                                                                  "name": Object {
-                                                                                                    "kind": "Name",
-                                                                                                    "value": "changedFiles",
-                                                                                                  },
-                                                                                                  "selectionSet": undefined,
                                                                                                 },
                                                                                               ],
                                                                                             },
@@ -27742,7 +27060,7 @@ Update for 3.7.1",
                       ],
                       "kind": "Document",
                       "loc": Object {
-                        "end": 2114,
+                        "end": 1998,
                         "start": 0,
                       },
                     },
@@ -28125,17 +27443,6 @@ Update for 3.7.1",
                                                                                 "kind": "Field",
                                                                                 "name": Object {
                                                                                   "kind": "Name",
-                                                                                  "value": "totalCount",
-                                                                                },
-                                                                                "selectionSet": undefined,
-                                                                              },
-                                                                              Object {
-                                                                                "alias": undefined,
-                                                                                "arguments": Array [],
-                                                                                "directives": Array [],
-                                                                                "kind": "Field",
-                                                                                "name": Object {
-                                                                                  "kind": "Name",
                                                                                   "value": "edges",
                                                                                 },
                                                                                 "selectionSet": Object {
@@ -28228,17 +27535,6 @@ Update for 3.7.1",
                                                                                                       },
                                                                                                     ],
                                                                                                   },
-                                                                                                },
-                                                                                                Object {
-                                                                                                  "alias": undefined,
-                                                                                                  "arguments": Array [],
-                                                                                                  "directives": Array [],
-                                                                                                  "kind": "Field",
-                                                                                                  "name": Object {
-                                                                                                    "kind": "Name",
-                                                                                                    "value": "changedFiles",
-                                                                                                  },
-                                                                                                  "selectionSet": undefined,
                                                                                                 },
                                                                                               ],
                                                                                             },
@@ -28365,7 +27661,7 @@ Update for 3.7.1",
                       ],
                       "kind": "Document",
                       "loc": Object {
-                        "end": 2114,
+                        "end": 1998,
                         "start": 0,
                       },
                     },
@@ -28761,17 +28057,6 @@ Update for 3.7.1",
                                                                           "kind": "Field",
                                                                           "name": Object {
                                                                             "kind": "Name",
-                                                                            "value": "totalCount",
-                                                                          },
-                                                                          "selectionSet": undefined,
-                                                                        },
-                                                                        Object {
-                                                                          "alias": undefined,
-                                                                          "arguments": Array [],
-                                                                          "directives": Array [],
-                                                                          "kind": "Field",
-                                                                          "name": Object {
-                                                                            "kind": "Name",
                                                                             "value": "edges",
                                                                           },
                                                                           "selectionSet": Object {
@@ -28871,17 +28156,6 @@ Update for 3.7.1",
                                                                                                 },
                                                                                               ],
                                                                                             },
-                                                                                          },
-                                                                                          Object {
-                                                                                            "alias": undefined,
-                                                                                            "arguments": Array [],
-                                                                                            "directives": Array [],
-                                                                                            "kind": "Field",
-                                                                                            "name": Object {
-                                                                                              "kind": "Name",
-                                                                                              "value": "changedFiles",
-                                                                                            },
-                                                                                            "selectionSet": undefined,
                                                                                           },
                                                                                           Object {
                                                                                             "kind": "Field",
@@ -29085,7 +28359,7 @@ Update for 3.7.1",
                 ],
                 "kind": "Document",
                 "loc": Object {
-                  "end": 2114,
+                  "end": 1998,
                   "start": 0,
                 },
               },
@@ -29455,17 +28729,6 @@ Update for 3.7.1",
                                                                             "kind": "Field",
                                                                             "name": Object {
                                                                               "kind": "Name",
-                                                                              "value": "totalCount",
-                                                                            },
-                                                                            "selectionSet": undefined,
-                                                                          },
-                                                                          Object {
-                                                                            "alias": undefined,
-                                                                            "arguments": Array [],
-                                                                            "directives": Array [],
-                                                                            "kind": "Field",
-                                                                            "name": Object {
-                                                                              "kind": "Name",
                                                                               "value": "edges",
                                                                             },
                                                                             "selectionSet": Object {
@@ -29558,17 +28821,6 @@ Update for 3.7.1",
                                                                                                   },
                                                                                                 ],
                                                                                               },
-                                                                                            },
-                                                                                            Object {
-                                                                                              "alias": undefined,
-                                                                                              "arguments": Array [],
-                                                                                              "directives": Array [],
-                                                                                              "kind": "Field",
-                                                                                              "name": Object {
-                                                                                                "kind": "Name",
-                                                                                                "value": "changedFiles",
-                                                                                              },
-                                                                                              "selectionSet": undefined,
                                                                                             },
                                                                                           ],
                                                                                         },
@@ -29695,7 +28947,7 @@ Update for 3.7.1",
                   ],
                   "kind": "Document",
                   "loc": Object {
-                    "end": 2114,
+                    "end": 1998,
                     "start": 0,
                   },
                 },
@@ -29780,7 +29032,6 @@ Update for 3.7.1",
             target {
               ... on Commit {
                 history(first: 10) {
-                  totalCount
                   edges {
                     node {
                       ... on Commit {
@@ -29792,7 +29043,6 @@ Update for 3.7.1",
                           avatarUrl
                           __typename
                         }
-                        changedFiles
                         __typename
                       }
                       __typename
@@ -29826,7 +29076,7 @@ Update for 3.7.1",
                 "options": Object {
                   "context": undefined,
                   "displayName": "Query",
-                  "notifyOnNetworkStatusChange": false,
+                  "notifyOnNetworkStatusChange": true,
                   "query": Object {
                     "definitions": Array [
                       Object {
@@ -30188,17 +29438,6 @@ Update for 3.7.1",
                                                                               "kind": "Field",
                                                                               "name": Object {
                                                                                 "kind": "Name",
-                                                                                "value": "totalCount",
-                                                                              },
-                                                                              "selectionSet": undefined,
-                                                                            },
-                                                                            Object {
-                                                                              "alias": undefined,
-                                                                              "arguments": Array [],
-                                                                              "directives": Array [],
-                                                                              "kind": "Field",
-                                                                              "name": Object {
-                                                                                "kind": "Name",
                                                                                 "value": "edges",
                                                                               },
                                                                               "selectionSet": Object {
@@ -30291,17 +29530,6 @@ Update for 3.7.1",
                                                                                                     },
                                                                                                   ],
                                                                                                 },
-                                                                                              },
-                                                                                              Object {
-                                                                                                "alias": undefined,
-                                                                                                "arguments": Array [],
-                                                                                                "directives": Array [],
-                                                                                                "kind": "Field",
-                                                                                                "name": Object {
-                                                                                                  "kind": "Name",
-                                                                                                  "value": "changedFiles",
-                                                                                                },
-                                                                                                "selectionSet": undefined,
                                                                                               },
                                                                                             ],
                                                                                           },
@@ -30428,7 +29656,7 @@ Update for 3.7.1",
                     ],
                     "kind": "Document",
                     "loc": Object {
-                      "end": 2114,
+                      "end": 1998,
                       "start": 0,
                     },
                   },
@@ -30451,7 +29679,7 @@ Update for 3.7.1",
                   "options": Object {
                     "context": undefined,
                     "displayName": "Query",
-                    "notifyOnNetworkStatusChange": false,
+                    "notifyOnNetworkStatusChange": true,
                     "query": Object {
                       "definitions": Array [
                         Object {
@@ -30813,17 +30041,6 @@ Update for 3.7.1",
                                                                                 "kind": "Field",
                                                                                 "name": Object {
                                                                                   "kind": "Name",
-                                                                                  "value": "totalCount",
-                                                                                },
-                                                                                "selectionSet": undefined,
-                                                                              },
-                                                                              Object {
-                                                                                "alias": undefined,
-                                                                                "arguments": Array [],
-                                                                                "directives": Array [],
-                                                                                "kind": "Field",
-                                                                                "name": Object {
-                                                                                  "kind": "Name",
                                                                                   "value": "edges",
                                                                                 },
                                                                                 "selectionSet": Object {
@@ -30916,17 +30133,6 @@ Update for 3.7.1",
                                                                                                       },
                                                                                                     ],
                                                                                                   },
-                                                                                                },
-                                                                                                Object {
-                                                                                                  "alias": undefined,
-                                                                                                  "arguments": Array [],
-                                                                                                  "directives": Array [],
-                                                                                                  "kind": "Field",
-                                                                                                  "name": Object {
-                                                                                                    "kind": "Name",
-                                                                                                    "value": "changedFiles",
-                                                                                                  },
-                                                                                                  "selectionSet": undefined,
                                                                                                 },
                                                                                               ],
                                                                                             },
@@ -31053,7 +30259,7 @@ Update for 3.7.1",
                       ],
                       "kind": "Document",
                       "loc": Object {
-                        "end": 2114,
+                        "end": 1998,
                         "start": 0,
                       },
                     },
@@ -31106,7 +30312,7 @@ Update for 3.7.1",
           height={32}
           style={Object {}}
           timeout={0}
-          type="Puff"
+          type="Oval"
           visible={true}
           width={32}
         >
@@ -31115,15 +30321,15 @@ Update for 3.7.1",
             className="loader"
             style={Object {}}
           >
-            <Puff
+            <Oval
               className="loader"
               color="#B3CBFF"
               height={32}
               label="audio-loading"
-              radius={1}
+              radius={18}
               style={Object {}}
               timeout={0}
-              type="Puff"
+              type="Oval"
               visible={true}
               width={32}
             >
@@ -31131,70 +30337,40 @@ Update for 3.7.1",
                 aria-label="audio-loading"
                 height={32}
                 stroke="#B3CBFF"
-                viewBox="0 0 44 44"
+                viewBox="0 0 38 38"
                 width={32}
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <g
                   fill="none"
                   fillRule="evenodd"
-                  strokeWidth="2"
                 >
-                  <circle
-                    cx="22"
-                    cy="22"
-                    r={1}
+                  <g
+                    strokeWidth="2"
+                    transform="translate(1 1)"
                   >
-                    <animate
-                      attributeName="r"
-                      begin="0s"
-                      calcMode="spline"
-                      dur="1.8s"
-                      keySplines="0.165, 0.84, 0.44, 1"
-                      keyTimes="0; 1"
-                      repeatCount="indefinite"
-                      values="1; 20"
+                    <circle
+                      cx="18"
+                      cy="18"
+                      r={18}
+                      strokeOpacity=".5"
                     />
-                    <animate
-                      attributeName="strokeOpacity"
-                      begin="0s"
-                      calcMode="spline"
-                      dur="1.8s"
-                      keySplines="0.3, 0.61, 0.355, 1"
-                      keyTimes="0; 1"
-                      repeatCount="indefinite"
-                      values="1; 0"
-                    />
-                  </circle>
-                  <circle
-                    cx="22"
-                    cy="22"
-                    r={1}
-                  >
-                    <animate
-                      attributeName="r"
-                      begin="-0.9s"
-                      calcMode="spline"
-                      dur="1.8s"
-                      keySplines="0.165, 0.84, 0.44, 1"
-                      keyTimes="0; 1"
-                      repeatCount="indefinite"
-                      values="1; 20"
-                    />
-                    <animate
-                      attributeName="strokeOpacity"
-                      begin="-0.9s"
-                      calcMode="spline"
-                      dur="1.8s"
-                      keySplines="0.3, 0.61, 0.355, 1"
-                      keyTimes="0; 1"
-                      repeatCount="indefinite"
-                      values="1; 0"
-                    />
-                  </circle>
+                    <path
+                      d="M36 18c0-9.94-8.06-18-18-18"
+                    >
+                      <animateTransform
+                        attributeName="transform"
+                        dur="1s"
+                        from="0 18 18"
+                        repeatCount="indefinite"
+                        to="360 18 18"
+                        type="rotate"
+                      />
+                    </path>
+                  </g>
                 </g>
               </svg>
-            </Puff>
+            </Oval>
           </div>
         </Loader>
       </Repositories>

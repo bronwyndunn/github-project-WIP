@@ -51,7 +51,7 @@ const App = () => {
                     type="button"
                     onClick={handleSearch}
                     value="search"
-                    className="search-button"
+                    className="button search-button"
                 ></input>
             </div>
             {showRepos ? <Dashboard searchTerm={searchTerm} /> : null}

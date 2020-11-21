@@ -12,7 +12,8 @@ export const createRepoQuery = ({ orgName, sortDir, after, first = 5 }) => {
             queryString: `org:${orgName} sort:${sortDir}-desc`,
             first: first,
             after: after
-        }
+        },
+        notifyOnNetworkStatusChange: true
     })
 }
 
@@ -62,7 +63,6 @@ export const SEARCH_FOR_REPOS = gql`
                             target {
                                 ... on Commit {
                                     history(first: 10) {
-                                        totalCount
                                         edges {
                                             node {
                                                 ... on Commit {
@@ -73,7 +73,6 @@ export const SEARCH_FOR_REPOS = gql`
                                                         email
                                                         avatarUrl
                                                     }
-                                                    changedFiles
                                                 }
                                             }
                                         }

@@ -53,7 +53,10 @@ const RepoData = ({ node }) => {
                 </div>
             </div>
             <div className="sidebar-container">
-                <button className="commit-button" onClick={toggleSidebar}>
+                <button
+                    className="button commit-button"
+                    onClick={toggleSidebar}
+                >
                     {sidebarOpen ? 'Close' : 'Browse recent commits'}
                 </button>
                 {sidebarOpen && (
@@ -77,12 +80,14 @@ const Repositories = ({
     loading,
     fetchMore,
     setSortDir,
-    sortDir
+    sortDir,
+    isLoadingMore,
+    setIsLoadingMore
 }) => {
-    if (loading) {
+    if (loading && !data) {
         return (
             <Loader
-                type="Puff"
+                type="Oval"
                 color="#B3CBFF"
                 height={32}
                 width={32}
@@ -138,7 +143,11 @@ const Repositories = ({
                 <ul className="repositories-list">{renderReposData()}</ul>
             </div>
             {hasNextPage && (
-                <LoadMoreButton endCursor={endCursor} fetchMore={fetchMore} />
+                <LoadMoreButton
+                    endCursor={endCursor}
+                    fetchMore={fetchMore}
+                    loading={loading}
+                />
             )}
         </div>
     )

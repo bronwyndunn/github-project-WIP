@@ -16,7 +16,7 @@ exports[`App should render the component 1`] = `
       value=""
     />
     <input
-      className="search-button"
+      className="button search-button"
       id="search"
       onClick={[Function]}
       type="button"

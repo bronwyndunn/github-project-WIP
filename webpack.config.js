@@ -12,11 +12,12 @@ module.exports = () => {
         return prev
     }, {})
     return {
+        entry: path.resolve(__dirname, 'src/index.js'),
         output: {
             path: path.resolve(__dirname, 'dist'),
-            filename: 'index_bundle.js',
-            publicPath: '/'
+            filename: 'bundle.js'
         },
+        mode: 'development',
         resolve: {
             modules: [path.join(__dirname, 'src'), 'node_modules'],
             alias: {
@@ -45,16 +46,12 @@ module.exports = () => {
                 }
             ]
         },
-        devServer: {
-            historyApiFallback: true,
-            publicPath: '/dist'
-        },
+        devServer: {},
         plugins: [
             new webpack.DefinePlugin(envKeys),
             new HtmlWebPackPlugin({
                 template: './src/index.html'
             })
-        ],
-        mode: 'development'
+        ]
     }
 }
